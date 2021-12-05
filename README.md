@@ -5,7 +5,7 @@ The repository will include code for the Capstone project in Applied Data Scienc
 ## Capstone Project description
 The project includes exploring venues in Chandigarh, India using datasets from two APIs - Foursquare API and Zomato API. The aim of this project is to allow any visitor to select from a range of venues based on their venue rating and average price preferences.
 
-- [Report]
+- [(https://github.com/sshafian/The-Battle-of-Neighborhoods/blob/main/Report.pdf)]
 - [Notebook]
 - [Article]
 
